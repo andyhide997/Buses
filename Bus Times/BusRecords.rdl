@@ -802,7 +802,7 @@
           <TablixMembers>
             <TablixMember>
               <TablixHeader>
-                <Size>3.69062cm</Size>
+                <Size>4.11395cm</Size>
                 <CellContents>
                   <Textbox Name="Textbox31">
                     <CanGrow>true</CanGrow>
@@ -851,7 +851,7 @@
                 </SortExpression>
               </SortExpressions>
               <TablixHeader>
-                <Size>3.69062cm</Size>
+                <Size>4.11395cm</Size>
                 <CellContents>
                   <Textbox Name="ObservationDate">
                     <CanGrow>true</CanGrow>
@@ -901,7 +901,7 @@
         <Top>0.60537cm</Top>
         <Left>0.3937cm</Left>
         <Height>2.1175cm</Height>
-        <Width>17.65812cm</Width>
+        <Width>18.08145cm</Width>
         <Style>
           <Border>
             <Style>None</Style>
