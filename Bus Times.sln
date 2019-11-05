@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Bus Times", "Bus Times\Bus Times.rptproj", "{1C4CA701-F832-4DC2-8B9B-E7607AB0B3C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4CA701-F832-4DC2-8B9B-E7607AB0B3C4}.Debug|Default.ActiveCfg = Debug
+		{1C4CA701-F832-4DC2-8B9B-E7607AB0B3C4}.Debug|Default.Build.0 = DebugLocal
+		{1C4CA701-F832-4DC2-8B9B-E7607AB0B3C4}.Debug|Default.Deploy.0 = DebugLocal
+		{1C4CA701-F832-4DC2-8B9B-E7607AB0B3C4}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{1C4CA701-F832-4DC2-8B9B-E7607AB0B3C4}.DebugLocal|Default.Build.0 = DebugLocal
+		{1C4CA701-F832-4DC2-8B9B-E7607AB0B3C4}.Release|Default.ActiveCfg = Release
+		{1C4CA701-F832-4DC2-8B9B-E7607AB0B3C4}.Release|Default.Build.0 = Release
+		{1C4CA701-F832-4DC2-8B9B-E7607AB0B3C4}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B40491-ED8B-436C-AC56-4C7A0653FFF6}
+	EndGlobalSection
+EndGlobal
