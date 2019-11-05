@@ -85,7 +85,7 @@ FROM            viewCountUseOfRouteRefs</CommandText>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>2.40482cm</Width>
+                  <Width>2.32545cm</Width>
                 </TablixColumn>
                 <TablixColumn>
                   <Width>3.71398cm</Width>
@@ -736,7 +736,7 @@ FROM            viewCountUseOfRouteRefs</CommandText>
             <DataSetName>DataSet2</DataSetName>
             <Left>0.25198cm</Left>
             <Height>2.70238cm</Height>
-            <Width>18.78906cm</Width>
+            <Width>18.70969cm</Width>
             <Style>
               <Border>
                 <Style>Solid</Style>
